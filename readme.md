@@ -122,6 +122,7 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 - Inside Tracker
 - WellnessFX
 - Life Extension
+- [FixFirst](https://fixfirst.health) - Free AI blood test analyzer that ranks your top 3 flagged biomarkers by clinical impact. No account, nothing stored, sex-adjusted thresholds anchored to ADA/ATA/NICE guidelines. (Web)
 
 ## Books
 
